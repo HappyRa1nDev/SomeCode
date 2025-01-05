@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/Code1/.vs
+/Code1/x64
+/Code1/Code1
